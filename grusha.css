@@ -1,0 +1,8 @@
+body{background: yellow;}
+h1{text-align: center; color: gold;}
+img{margin-left: 500px; margin-top: 10px; margin-bottom: 10px;}
+.one{background: rgb(10, 167, 10);}
+.two{background: rgb(13, 167, 13);}
+.text{background: orange;}
+div{color: orange;}
+button{width: 150px; height: 100px; background: gold; margin-left: 850px; margin-top: 15px;}
